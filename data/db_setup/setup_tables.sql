@@ -12,7 +12,7 @@ CREATE TABLE Schools (
   dress_code boolean,
   start_time datetime,
   end_time datetime,
-  accessibility boolean,
+  accessibility boolean
 );
 
 CREATE TABLE Buses (
