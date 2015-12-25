@@ -30,5 +30,5 @@ School_Type->Schools
 School->Grades
 School->Languages
 School->AP_Classes
-School->xtracurr
+School->Xtracurr
 School->Sports

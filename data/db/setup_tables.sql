@@ -6,7 +6,7 @@ CREATE TABLE Schools (
   email text,
   shared_space boolean,
   address text,
-  zip char(5),
+  zip int,
   website text,
   total_students int,
   dress_code boolean,
