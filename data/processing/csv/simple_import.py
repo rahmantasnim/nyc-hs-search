@@ -3,28 +3,27 @@ import sqlite3
 
 def peek_field_indices(src_file):
     with open(src_file) as f:
-        schema= {}
+        schema = {}
         for idx, field in enumerate(f.readline().split('|')):
             schema[field] = idx
     return schema
 
 
-def decide_dress_code(input):
-    l_input = input.lower()
+def decide_dress_code(inp):
+    l_input = inp.lower()
     if "uniform required" in l_input or "dress code required" in l_input:
         return 1
     return 0
 
 
-def parse_line(line, schema):
-    info = line.split('|')
-    parsed_info= []
+def parse_line(info, schema):
+    parsed_info = []
     parsed_info.append(info[schema["dbn"]])
     parsed_info.append(info[schema["school_name"]])
     parsed_info.append(info[schema["phone_number"]])
     parsed_info.append(info[schema["fax_number"]])
     parsed_info.append(info[schema["school_email"]])
-    parsed_info.append(1 if "Yes"==info[schema["shared_space"]] else 0)
+    parsed_info.append(1 if "Yes" == info[schema["shared_space"]] else 0)
     parsed_info.append(info[schema["primary_address_line_1"]])
     parsed_info.append(int(info[schema["zip"]]))
     parsed_info.append(info[schema["website"]])
@@ -36,6 +35,21 @@ def parse_line(line, schema):
     return tuple(parsed_info)
 
 
+def general_insert(c, dbn, table, value, join_table):
+    c.execute("""SELECT id FROM %s WHERE title = '%s';"""
+              % (table, value))
+    value_info = c.fetchone()
+    if not value_info:
+        c.execute("""INSERT INTO %s (title) VALUES
+                  ('%s');""" % (table, value))
+        c.execute("""SELECT id FROM %s WHERE title = '%s';"""
+                  % (table, value))
+        value_info = c.fetchone()
+
+    c.execute("""INSERT INTO %s VALUES
+               (%d, '%s');""" % (join_table, value_info[0], dbn))
+
+
 def simple_import(db_file, src_file):
     conn = sqlite3.connect(db_file)
     c = conn.cursor()
@@ -43,11 +57,56 @@ def simple_import(db_file, src_file):
     schema = peek_field_indices(src_file)
 
     with open(src_file) as f:
-        f.readline() # skipping first line containing fields
+        f.readline()    # skipping first line containing fields
         for line in f:
-            c.execute('''INSERT INTO Schools
-                        %s, %s, %s, %s, %s, %d, %s, %d, %s, %d, %d, %s, %s, %d'''
-                      % parse_line(line, schema))
+            info = line.replace("'", "''").split("|")
+            dbn = info[schema["dbn"]]
+
+            # inserting into schools
+            c.execute("""INSERT INTO Schools VALUES
+                      ('%s', '%s', '%s', '%s', '%s', %d, '%s',
+                      %d, '%s', %d, %d, '%s', '%s', %d);"""
+                      % parse_line(info, schema))
+
+            # inserting into Buses and Bus_school
+            buses = info[schema["bus"]].split(",")
+            for bus in buses:
+                bus = bus.strip()
+                general_insert(c, dbn, "Buses", bus, "Bus_School")
+
+            # # inserting into Trains needs more processing!!
+            # trains = info[schema["subway"]].split(",")
+            # for train in trains :
+            #     train = train.strip()
+            #     general_insert(c, dbn, "Trains", train, "Train_School")
+
+            # inserting into School_Types
+            school_types = info[schema["school_type"]].split(",")
+            for school_type in school_types:
+                school_type = school_type.strip()
+                general_insert(c, dbn, "School_Types", school_type, "School_Type_School")
+
+            # inserting into langs
+            langs = info[schema["language_classes"]].split(",")
+            for lang in langs:
+                lang = lang.strip()
+                general_insert(c, dbn, "Langs", lang, "School_Lang")
+
+            # inserting into AP_Classes
+            courses = info[schema["advancedplacement_courses"]].split(",")
+            for course in courses:
+                course = course.strip()
+                general_insert(c, dbn, "AP_Classes", course, "School_AP")
+
+            # inserting into Xtra_Curr
+            xtras = info[schema["extracurricular_activities"]].split(",")
+            for xtra in xtras:
+                xtra = xtra.strip()
+                general_insert(c, dbn, "Xtra_Curr", xtra, "School_Xtracurr")
+
+            conn.commit()
+
+        conn.close()
 
     # # Create table
     # c.execute('''CREATE TABLE stocks
@@ -81,7 +140,7 @@ def simple_import(db_file, src_file):
 
 
 def main():
-    simple_import("db", "src")
+    simple_import("../../db/nyc_hs_dir.db", "../../src/DOE_High_School_Directory_2016.csv")
     return
 
 if __name__ == '__main__':
