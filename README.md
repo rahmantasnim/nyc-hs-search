@@ -16,6 +16,7 @@ Currently, there are two overall tasks. I'm sure this will get more elaborate as
 ## Search Criteria
 
 I hope to add these search criteria
+
     - Commute Time given Location(using Google Maps API)
     - School Type
     - Grades
