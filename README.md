@@ -17,7 +17,7 @@ Currently, there are two overall tasks. I'm sure this will get more elaborate as
 
 I hope to add these search criteria
 
-    - Commute Time given Location(using Google Maps API)
+    - Commute Time given Location (using Google Maps API)
     - School Type
     - Grades
     - AP Classes
