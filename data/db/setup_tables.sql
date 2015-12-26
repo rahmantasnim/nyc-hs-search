@@ -102,7 +102,7 @@ CREATE TABLE School_Sports (
   sport_id INTEGER,
   school_dbn char(6),
   psal boolean,
-  gender varchar(5),
+  gender char(1),
   FOREIGN KEY(sport_id) REFERENCES Sports(id),
   FOREIGN KEY(school_dbn) REFERENCES Schools(dbn)
 );

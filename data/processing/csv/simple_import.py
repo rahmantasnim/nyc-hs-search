@@ -16,7 +16,7 @@ def decide_dress_code(inp):
     return 0
 
 
-def parse_line(info, schema):
+def parse_school_info(info, schema):
     parsed_info = []
     parsed_info.append(info[schema["dbn"]])
     parsed_info.append(info[schema["school_name"]])
@@ -50,6 +50,24 @@ def general_insert(c, dbn, table, value, join_table):
                (%d, '%s');""" % (join_table, value_info[0], dbn))
 
 
+def sports_insert(c, dbn, sports, psal, gender):
+    for sport in sports:
+        sport = sport.strip()
+        if sport:
+            c.execute("""SELECT id FROM Sports WHERE title = '%s';"""
+                      % sport)
+            sport_info = c.fetchone()
+            if not sport_info:
+                c.execute("""INSERT INTO Sports (title) VALUES
+                          ('%s');""" % sport)
+                c.execute("""SELECT id FROM Sports WHERE title = '%s';"""
+                          % sport)
+                sport_info = c.fetchone()
+
+            c.execute("""INSERT INTO School_Sports VALUES
+                       (%d, '%s', %d, '%s');""" % (sport_info[0], dbn, psal, gender))
+
+
 def simple_import(db_file, src_file):
     conn = sqlite3.connect(db_file)
     c = conn.cursor()
@@ -66,13 +84,14 @@ def simple_import(db_file, src_file):
             c.execute("""INSERT INTO Schools VALUES
                       ('%s', '%s', '%s', '%s', '%s', %d, '%s',
                       %d, '%s', %d, %d, '%s', '%s', %d);"""
-                      % parse_line(info, schema))
+                      % parse_school_info(info, schema))
 
             # inserting into Buses and Bus_school
             buses = info[schema["bus"]].split(",")
             for bus in buses:
                 bus = bus.strip()
-                general_insert(c, dbn, "Buses", bus, "Bus_School")
+                if bus:
+                    general_insert(c, dbn, "Buses", bus, "Bus_School")
 
             # # inserting into Trains needs more processing!!
             # trains = info[schema["subway"]].split(",")
@@ -90,19 +109,35 @@ def simple_import(db_file, src_file):
             langs = info[schema["language_classes"]].split(",")
             for lang in langs:
                 lang = lang.strip()
-                general_insert(c, dbn, "Langs", lang, "School_Lang")
+                if lang:
+                    general_insert(c, dbn, "Langs", lang, "School_Lang")
 
             # inserting into AP_Classes
             courses = info[schema["advancedplacement_courses"]].split(",")
             for course in courses:
                 course = course.strip()
-                general_insert(c, dbn, "AP_Classes", course, "School_AP")
+                if course:
+                    general_insert(c, dbn, "AP_Classes", course, "School_AP")
 
             # inserting into Xtra_Curr
             xtras = info[schema["extracurricular_activities"]].split(",")
             for xtra in xtras:
                 xtra = xtra.strip()
-                general_insert(c, dbn, "Xtra_Curr", xtra, "School_Xtracurr")
+                if xtra:
+                    general_insert(c, dbn, "Xtra_Curr", xtra, "School_Xtracurr")
+
+            # inserting into sports
+            sports_girls_psal = info[schema["psal_sports_girls"]].split(",")
+            sports_insert(c, dbn, sports_girls_psal, 1, "F")
+
+            sports_boys_psal = info[schema["psal_sports_boys"]].split(",")
+            sports_insert(c, dbn, sports_boys_psal, 1, "M")
+
+            sports_coed_psal = info[schema["psal_sports_coed"]].split(",")
+            sports_insert(c, dbn, sports_coed_psal, 1, "C")
+
+            sports = info[schema["school_sports"]].split(",")
+            sports_insert(c, dbn, sports, 0, "C")   # technically, unknown gender?
 
             conn.commit()
 
