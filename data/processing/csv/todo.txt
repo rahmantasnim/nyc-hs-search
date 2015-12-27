@@ -1,3 +1,5 @@
+PLAN FOR STRUCTURING DATABASE
+
 FIELDS
 ------
 dbn|school_name|boro|building_code|shared_space|phone_number|fax_number|school_email|grade_span_min|grade_span_max|
@@ -32,3 +34,17 @@ School->Languages
 School->AP_Classes
 School->Xtracurr
 School->Sports
+
+
+TODO
+Come up with a scheme to minimize the ~3500 different extracurricular
+
+1. Select top 50
+
+2. Map everything else to the top 50 or drop it
+
+Rules for Mapping
+    - Need to come up with keywords for each of the top 50
+
+
+
