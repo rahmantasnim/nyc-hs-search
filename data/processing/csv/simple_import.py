@@ -1,4 +1,4 @@
-import sqlite3
+import sqlite3, xtra_curr_processing
 
 
 def peek_field_indices(src_file):
@@ -68,6 +68,17 @@ def sports_insert(c, dbn, sports, psal, gender):
                        (%d, '%s', %d, '%s');""" % (sport_info[0], dbn, psal, gender))
 
 
+def xtra_curr_insert(c, dbn, xtra):
+    words = xtra.split(' ')
+    for w in words:
+        w = w.lower()
+        if w in xtra_curr_processing.xtra_curr_keywords:
+            xtra = xtra_curr_processing.xtra_curr_keywords[w]
+            break
+
+    general_insert(c, dbn, "Xtra_Curr", xtra, "School_Xtracurr")
+
+
 def simple_import(db_file, src_file):
     conn = sqlite3.connect(db_file)
     c = conn.cursor()
@@ -124,7 +135,7 @@ def simple_import(db_file, src_file):
             for xtra in xtras:
                 xtra = xtra.strip()
                 if xtra:
-                    general_insert(c, dbn, "Xtra_Curr", xtra, "School_Xtracurr")
+                    xtra_curr_insert(c, dbn, xtra)
 
             # inserting into sports
             sports_girls_psal = info[schema["psal_sports_girls"]].split(",")
