@@ -1,3 +1,5 @@
+12/24
+
 PLAN FOR STRUCTURING DATABASE
 
 FIELDS
@@ -35,6 +37,7 @@ School->AP_Classes
 School->Xtracurr
 School->Sports
 
+12/26
 
 TODO
 Come up with a scheme to minimize the ~3500 different extracurricular
@@ -43,8 +46,44 @@ Come up with a scheme to minimize the ~3500 different extracurricular
 
 2. Map everything else to the top 50 or drop it
 
-Rules for Mapping
-    - Need to come up with keywords for each of the top 50
+Rules for Mapping (Need to come up with keywords for each of the top 50)
+
+12/27
+
+Hand coded Rules aren't really working well. I can keep doing more and minimizing, but I can't help but feel as if it's
+futile and wasted effort I could be using towards a learning how to do different approach.
+
+New Sugesstions:
+
+Supervised Machine Learning
+    using Textblob and using the rules I wrote to train it.
+
+    https://class.coursera.org/nlp/lecture/37
+    http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/
+
+    pros: easy
+    cons: need to train it?, may not be very accurate
+
+Edit Distance
+    Fuzzy Wuzzy
+        https://github.com/seatgeek/fuzzywuzzy
+    Clustering
+        https://stats.stackexchange.com/questions/123060/clustering-a-long-list-of-strings-words-into-similarity-groups
 
 
+Researching this, I've come to certain realizations
+There are ~ three types of minimizing.
+
+    1. Distinct organizations (Muslim Student Alliance v Muslim Student Association)
+    2. Distinct purposes (Musical Theater v Drama)
+    3. Distinct fields (Community Service v Vocal Arts)
+
+    I can use the edit distance to deal with 1)
+    2 and 3 requires something else
+
+I don't want to lose the information that comes with minimizing into more broader categories
+so perhaps it can be presented as a hierarchy where selecting a field indicates more options
+to narrow it down into. similar to amazon's search departments, etc.
+
+This means I'll need more tables.
 

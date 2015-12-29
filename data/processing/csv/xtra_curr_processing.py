@@ -1,3 +1,9 @@
+import numpy as np #from numpy package
+import sklearn.cluster  # from sklearn package
+import distance #from distance package
+import simple_import
+
+
 """
 REDUCED LIST OF EXTRACURRICULARS
 
@@ -111,3 +117,55 @@ xtra_curr_keywords = { "government": "Student Government/Council",
                        "environmental": "Environmental Club",
                        "muslim": "Muslim Student Association"
                        }
+
+
+""" Trying to cluster by affinity groups """
+
+
+def collect_xtra_curr(src_file):
+    schema = simple_import.peek_field_indices(src_file)
+    res = []
+    with open(src_file) as f:
+        f.readline()
+        count = 0
+        for line in f:
+            line = line.replace("'", "''").split('|')
+            xtras =  line[schema["extracurricular_activities"]].split(',')
+            for xtra in xtras:
+                xs = xtra.split(';')
+                for x in xs:
+                    x = x.strip().lower()
+                    if len(x) <= 40:
+                        res.append(x)
+                        count = count+1
+
+            if count > 1000:
+                break
+    return res
+
+
+def cluster_xtra_curr(xtras, out_file):
+    with open(out_file, "w") as f:
+        words = xtras
+        lev_similarity = -1*np.array([[distance.levenshtein(w1,w2) for w1 in words] for w2 in words])
+
+        affprop = sklearn.cluster.AffinityPropagation(affinity="precomputed", damping=0.75)
+        affprop.fit(lev_similarity)
+        for cluster_id in np.unique(affprop.labels_):
+            exemplar = words[affprop.cluster_centers_indices_[cluster_id]]
+            idxs = np.nonzero(affprop.labels_ == cluster_id)[0]
+            ws = []
+            for idx in idxs:
+                ws.append(words[idx])
+            cluster = np.unique(ws)
+            cluster_str = ", ".join(cluster)
+            f.write(" - *%s:* %s\n" % (exemplar, cluster_str))
+
+
+def main():
+    xtras = collect_xtra_curr("../../src/DOE_High_School_Directory_2016.csv")
+    cluster_xtra_curr(xtras, "xtra_curr_analysis/clustered_xtra_curr_075_all.txt")
+
+
+if __name__ == '__main__':
+    main()

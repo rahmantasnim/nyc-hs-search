@@ -1,0 +1,88 @@
+ - *drama:* clubs: drama, debate, drama, film, music, photography, swim, travel, yoga
+ - *big brothers/big sisters:* big brothers/big sisters
+ - *dance (in our state-of-the-art dance studio):* dance (in our state-of-the-art dance studio)
+ - *weight training (in our newly-renovated gym):* weight training (in our newly-renovated gym)
+ - *after-school tutoring:* after school of rock, after-school jazz band, after-school program, after-school tutoring
+ - *peer tutoring:* academic tutorials, audio recording, heart to heart charity, lunchtime tutoring, peer mediation, peer tutoring, poetry out loud, poetry/spoken word, power luncheons, tutoring/peer tutoring
+ - *aviation:* animation, anime/video game, aviation, badminton, envirothon, family night, fashion, fashion show, hip-hop, knitting, mandarin, movie night, peer mediation, robotics, social justice, video game design
+ - *audio (at a live radio station):* audio (at a live radio station)
+ - *literary magazine:* art magazine, bhsec literary magazine, clinton soup (literary magazine), iris literary magazine, literary magazine, vineyard theatre
+ - *murals and school beautification:* murals and school beautification
+ - *video and cooking. at unhs:* video and cooking. at unhs, video production and editing, winter and spring concerts, winter and spring school plays
+ - *we will also help any student develop any club that has 10 or more students interested in joining.:* we will also help any student develop any club that has 10 or more students interested in joining.
+ - *i challenge myself bicycling program:* i challenge myself bicycling program
+ - *gay/straight alliance:* gay straight alliance, gay-straight alliance, gay-straight alliance (gsa), gay/straight alliance
+ - *hip-hop beat making & rhyming:* hip-hop beat making & rhyming
+ - *school newspaper:* school musical, school newsletter, school newspaper, school plays and musicals, school store, student newspaper
+ - *the brotherhood and girl’s group:* the brotherhood and girl’s group
+ - *sat prep classes:* art portfolio classes, field trips to colleges, leadership class, sat prep classes, sat preparation, skateboarding pe classes
+ - *scholars program:* art and photography, big sib mentoring program, digital photography, explorers program, hydroponics program, rock band program, saturday photography program, scholars program
+ - *rock climbing at brooklyn boulders:* rock climbing at brooklyn boulders
+ - *surfing and snowboarding through stoked:* surfing and snowboarding through stoked
+ - *student ambassadors:* student ambassadors, student assistance services, student expositions, talent and fashion show
+ - *college and career fair:* college and career fair
+ - *gallatin great works project (nyu):* gallatin great works project (nyu)
+ - *monthly family resource fairs:* monthly family resource fairs
+ - *peer mediation and conflict resolution:* peer mediation and conflict resolution, peer mediation/conflict resolution
+ - *princeton center for leadership:* princeton center for leadership
+ - *theater:* asl poetry, computer, debate, etiquette, guitar, literature, minds matter, photography, pilates, poetry, table tennis, tech crew, the gauss contest, theater, theater production, theatre tech, travel, ultimate frisbee
+ - *annual coffee house concert:* annual coffee house concert, sarah lawrence college student interns
+ - *annual gallery walk art exhibitions:* annual gallery walk art exhibitions
+ - *competitive ballroom dancing:* competitive ballroom dancing
+ - *handball:* basketball, board games, handball, jazz band, photo and media, volleyball
+ - *kangaroo international competition:* kangaroo international competition
+ - *math team:* computer tech, dance team, debate team, green roof team, law team, loma theatre ensemble, math team, math through card play, math zone, mock trial, step team
+ - *national and local chess championships:* national and local chess championships
+ - *new york math league competition:* new york math league competition
+ - *bardvark student newspaper:* bard bulletin online newspaper, bardvark student newspaper, ‘the vine’ student newsletter
+ - *bhsec student''s union:* bhsec student activist network, bhsec student''s union, black student union, borough advisory student council, muslim students association
+ - *break dance:* bhsec connect, bollywood dance, break dance, caribbean dance, college guidance, current events, freaks and geeks, latin dance, rock band, salsa dance, step dance
+ - *chinese language and culture:* chinese language and culture
+ - *future doctors and scientists of america (fdsa):* future doctors and scientists of america (fdsa)
+ - *asl performance:* asl performance, cafe performances
+ - *chorus: signing and singing:* chorus: signing and singing
+ - *dance:* anime, dance, finance, french, japanese, sat prep, science, service, soccer, voice
+ - *regents prep:* business trips, kaplan sat prep, regents prep, saturday regents prep, wellness center, young entrepreneurs
+ - *sat prep school newspaper (in print and video):* sat prep school newspaper (in print and video)
+ - *visits to asl interpreted broadway shows:* visits to asl interpreted broadway shows
+ - *student government:* school government, student advisory council, student council, student government, student government association, student government/leadership, young women’s empowerment
+ - *model un:* academic bowl, homework help, model un, mouse squad, skillsusa
+ - *school leadership team:* model peer leadership program, school leadership team, school leadership team (slt)
+ - *the clinton post (school newspaper):* the clinton post (school newspaper)
+ - *advertising competition:* advertising competition, advertising industry council, scholastic arts competition
+ - *saturday academy:* esl saturday academy, mac (making a change), pm and saturday school, saturday academy, saturday sat prep
+ - *design competitions: startup weekend edu teens:* design competitions: startup weekend edu teens
+ - *cornell nutrition:* amnesty international, conflict resolution, cornell nutrition, council for unity, food & nutrition
+ - *educated and aware teens who inspire smart eating (eatwise):* educated and aware teens who inspire smart eating (eatwise)
+ - *guitar club:* and guitar clubs, art/film club, asian culture, business club, coders club, coding club, crochet club, finance club, girls acapella, girls who code, green club, guitar and piano, guitar club, lunchtime cafe clubs, maker club, performing arts club, principal’s book club, unity (girls club)
+ - *national honor society:* educational field trips, national honor society, national honor society (arista), spanish national honor society
+ - *weight training:* digital learning, fitness training, weight room, weight room and others, weight training
+ - *yearbook:* book, hula hoop, technology, yearbook
+ - *youth leadership:* entrepreneurship, union square partnership, ymca: youth leadership, youth leadership, youth-run business
+ - *governor’s committee mentoring program:* governor’s committee mentoring program
+ - *community service:* community service, community service learning, computer science, icare community service
+ - *running:* baking, bridge running, camping, coding, drumming, film making, forensics, journalism, meca-zine, mentoring, music, painting, ping pong, recycling, robotics, running, songwriting, spanish, swimming, tennis, tutoring
+ - *after-school field trips and office tours:* after-school field trips and office tours
+ - *after-school and summer design programs:* after-school and summer design programs
+ - *international travel opportunities:* international travel opportunities
+ - *weight training:* creative writing, event planning, hudson sailing, weight room, weight training
+ - *visual arts:* advisory debates, annual talent show, arts and crafts, culinary arts, digital art studio, global kids, graphic arts, martial arts, multicultural aspects, naval jrotc, visual art, visual arts
+ - *additional clubs are created based on student interest:* additional clubs are created based on student interest, additional clubs will be formed based on student interest
+ - *senior committee:* debate committee, environmental committee, junior advisor mentors, senior committee
+ - *loma students are required to participate in two days of extracurricular activities or tutoring a week: chorus:* loma students are required to participate in two days of extracurricular activities or tutoring a week: chorus
+ - *chimera concept dance team:* chimera concept dance team
+ - *loma cares volunteer group:* loma cares volunteer group
+ - *studio art:* future project, studio art, study hall
+ - *cheerleading:* cheerleading, creative writing, cuny college now, peer leaders, the purple meet
+ - *chess:* archery, chemistry, chess, chess team, choir, chorus, fitness, glee, huso, inews, philosophy, red cross, scholarship, step
+ - *psat and sat preparation:* fantasy science fiction, psat and sat preparation
+ - *the urban assembly school of business for young women (uasbyw) mentoring program:* the urban assembly school of business for young women (uasbyw) mentoring program
+ - *burton chill programs: snowboarding (winter) and surfing (summer):* burton chill programs: snowboarding (winter) and surfing (summer)
+ - *internship opportunities through partnerships with futures & options and pencil fellows programs:* internship opportunities through partnerships with futures & options and pencil fellows programs
+ - *sponsors for educational opportunities (seo):* sponsors for educational opportunities (seo)
+ - *future business leaders of america (fbla):* future business leaders of america (fbla)
+ - *drama internships:* drama internships, gardening internships, mentorships, morgan stanley internship program, world science festival
+ - *art:* 4-h, art, art crew, art in nyc, arts, arts shows, audio, book, eco, film, glsen, golf, karaoke, navy jrotc, prostart, step, yoga
+ - *marketing/public relations:* marketing/public relations, student-designed publications
+ - *youth environmental stewards (yes):* youth environmental stewards (yes)
+ - *video games/sci-fi/fantasy:* video games/sci-fi/fantasy

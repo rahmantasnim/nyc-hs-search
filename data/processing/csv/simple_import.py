@@ -1,4 +1,4 @@
-import sqlite3, xtra_curr_processing
+import sqlite3  # xtra_curr_processing
 
 
 def peek_field_indices(src_file):
@@ -70,11 +70,11 @@ def sports_insert(c, dbn, sports, psal, gender):
 
 def xtra_curr_insert(c, dbn, xtra):
     words = xtra.split(' ')
-    for w in words:
-        w = w.lower()
-        if w in xtra_curr_processing.xtra_curr_keywords:
-            xtra = xtra_curr_processing.xtra_curr_keywords[w]
-            break
+    # for w in words:
+    #     w = w.lower()
+    #     if w in xtra_curr_processing.xtra_curr_keywords:
+    #         xtra = xtra_curr_processing.xtra_curr_keywords[w]
+    #         break
 
     general_insert(c, dbn, "Xtra_Curr", xtra, "School_Xtracurr")
 
