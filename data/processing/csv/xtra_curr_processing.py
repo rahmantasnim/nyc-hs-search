@@ -127,20 +127,16 @@ def collect_xtra_curr(src_file):
     res = []
     with open(src_file) as f:
         f.readline()
-        count = 0
         for line in f:
             line = line.replace("'", "''").split('|')
-            xtras =  line[schema["extracurricular_activities"]].split(',')
+            xtras = line[schema["extracurricular_activities"]].split(',')
             for xtra in xtras:
                 xs = xtra.split(';')
                 for x in xs:
                     x = x.strip().lower()
                     if len(x) <= 40:
                         res.append(x)
-                        count = count+1
 
-            if count > 1000:
-                break
     return res
 
 

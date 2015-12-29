@@ -50,18 +50,27 @@ def general_insert(c, dbn, table, value, join_table):
                (%d, '%s');""" % (join_table, value_info[0], dbn))
 
 
+def trains_insert(c, dbn, train, stop):
+    if train:
+        c.execute("""SELECT id FROM Trains WHERE title = '%s';""" % train)
+        train_info = c.fetchone()
+        if not train_info:
+            c.execute("""INSERT INTO Trains (title) VALUES ('%s');""" % train)
+            c.execute("""SELECT id FROM Trains WHERE title = '%s';""" % train)
+            train_info = c.fetchone()
+
+        c.execute("""INSERT INTO Train_School VALUES (%d, '%s', '%s');""" % (train_info[0], dbn, stop))
+
+
 def sports_insert(c, dbn, sports, psal, gender):
     for sport in sports:
         sport = sport.strip()
         if sport:
-            c.execute("""SELECT id FROM Sports WHERE title = '%s';"""
-                      % sport)
+            c.execute("""SELECT id FROM Sports WHERE title = '%s';""" % sport)
             sport_info = c.fetchone()
             if not sport_info:
-                c.execute("""INSERT INTO Sports (title) VALUES
-                          ('%s');""" % sport)
-                c.execute("""SELECT id FROM Sports WHERE title = '%s';"""
-                          % sport)
+                c.execute("""INSERT INTO Sports (title) VALUES ('%s');""" % sport)
+                c.execute("""SELECT id FROM Sports WHERE title = '%s';""" % sport)
                 sport_info = c.fetchone()
 
             c.execute("""INSERT INTO School_Sports VALUES
@@ -77,6 +86,11 @@ def xtra_curr_insert(c, dbn, xtra):
     #         break
 
     general_insert(c, dbn, "Xtra_Curr", xtra, "School_Xtracurr")
+
+
+def grade_insert(c, dbn, lo, hi):
+    for x in range (lo, hi+1):
+        c.execute("""INSERT INTO School_Grades VALUES (%d, '%s');""" % (x, dbn))
 
 
 def simple_import(db_file, src_file):
@@ -104,11 +118,28 @@ def simple_import(db_file, src_file):
                 if bus:
                     general_insert(c, dbn, "Buses", bus, "Bus_School")
 
-            # # inserting into Trains needs more processing!!
-            # trains = info[schema["subway"]].split(",")
-            # for train in trains :
-            #     train = train.strip()
-            #     general_insert(c, dbn, "Trains", train, "Train_School")
+            # inserting into Trains
+            stops = info[schema["subway"]].split(";")
+            for stop in stops:
+                stop = stop.split("to", 1)
+                trains = stop[0].split(",")
+                for train in trains:
+                    train = train.strip()
+                    # s_name = "NULL"
+                    # if len(stop) == 2:
+                    #     s_name = stop[1].strip()
+                    trains_insert(c, dbn, train, stop[1].strip() if len(stop) == 2 else "NULL")
+
+            # inserting into Grades
+            grade_min = info[schema["grade_span_min"]].replace("PK", "-1").replace("K", "0")
+            grade_max = info[schema["grade_span_max"]].replace("PK", "-1").replace("K", "0")
+            exp_grade_min = info[schema["expgrade_span_min"]].replace("PK", "-1").replace("K", "0")
+            exp_grade_max = info[schema["expgrade_span_max"]].replace("PK", "-1").replace("K", "0")
+
+            grade_min = min(int(grade_min), int(exp_grade_min)) if exp_grade_min else int(grade_min)
+            grade_max = max(int(grade_max), int(exp_grade_max)) if exp_grade_max else int(grade_max)
+
+            grade_insert(c, dbn, grade_min, grade_max)
 
             # inserting into School_Types
             school_types = info[schema["school_type"]].split(",")
@@ -116,7 +147,7 @@ def simple_import(db_file, src_file):
                 school_type = school_type.strip()
                 general_insert(c, dbn, "School_Types", school_type, "School_Type_School")
 
-            # inserting into langs
+            # inserting into Langs
             langs = info[schema["language_classes"]].split(",")
             for lang in langs:
                 lang = lang.strip()

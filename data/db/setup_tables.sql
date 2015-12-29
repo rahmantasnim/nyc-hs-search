@@ -60,6 +60,7 @@ CREATE TABLE Bus_School (
 CREATE TABLE Train_School (
   train_id INTEGER,
   school_dbn char(6),
+  stop text,
   FOREIGN KEY(train_id) REFERENCES Trains(id),
   FOREIGN KEY(school_dbn) REFERENCES Schools(dbn)
 );
