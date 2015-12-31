@@ -125,9 +125,6 @@ def simple_import(db_file, src_file):
                 trains = stop[0].split(",")
                 for train in trains:
                     train = train.strip()
-                    # s_name = "NULL"
-                    # if len(stop) == 2:
-                    #     s_name = stop[1].strip()
                     trains_insert(c, dbn, train, stop[1].strip() if len(stop) == 2 else "NULL")
 
             # inserting into Grades

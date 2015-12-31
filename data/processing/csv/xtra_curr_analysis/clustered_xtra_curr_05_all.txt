@@ -1,0 +1,464 @@
+ - *a capella:* a capella, a cappella, academic, ap class support, a’cappella, capoeira, girls acapella
+ - *a-synchronization learning pilot:* a-synchronization learning pilot
+ - *academic committee for excellence (ace):* academic committee for excellence (ace)
+ - *academic enrichment:* academic enrichment, academic enrichment program, and academic enrichment, cultural enrichment
+ - *academic intervention services:* academic intervention services, academic intervention services (ais), attendance intervention program
+ - *academic tutorials:* academic bowl, academic centers, academic decathalon, academic excursions, academic homework lab, academic support, academic tutorial programs, academic tutorials, academic tutoring, academy of health, am and pm academic support, avid tutorials, ela and math tutorials
+ - *accents (foreign language magazine):* accents (foreign language magazine)
+ - *advertising competition:* activities and competitions), advertising competition, advertising design, advertising futures campaign, advertising industry council, future cities competition, kangaroo international competition, national peace competition, siemens science competition, virtual enterprise competition
+ - *african american club:* african american club, african heritage club, audio engineering club, award-winning drama club, gaming and animation club, italian american culture
+ - *african drumming:* african drumming, african drumming & percussion, afro-caribbean drumming, afro-cuban hand drumming, bridge running, guitar and drumming, painting and drawing, practical nursing
+ - *after-school and peer tutoring:* after school and on saturdays, after-school academic support, after-school and peer tutoring, after-school and saturday tutoring, after-school mentoring and tutoring, afterschool subject tutoring
+ - *after-school band:* after-school, after-school band, after-school debate, after-school fitness, after-school jazz band, as the school grows, aviation high school band/music, film after-school class, mck marching band, qpa school band
+ - *after-school enrichment classes:* after-school enrichment classes, after-school regents preparatory classes, bridges after school enrichment program
+ - *after-school homework center:* after-school classes in english, after-school homework center, after-school homework help, after-school homework help and tutoring, after-school sports and dance
+ - *after-school program:* after-school club day, after-school music program, after-school program, after-school programs, after-school programs: theater company, afterschool programs, carnegie hall program, ninth grade afterschool program, phipps after-school program - dance
+ - *after-school tutorial:* after school of rock, after school tutoring, after-school activities, after-school computer lab, after-school tutorial, after-school tutorial sessions, after-school tutorials, after-school tutoring, saturday school tutorials
+ - *after-school tutoring program:* after school academic programs, after-school and summer design programs, after-school music and art groups, after-school tutoring and enrichment, after-school tutoring program, after-school/saturday tutoring programs
+ - *air traffic control training:* air traffic control club, air traffic control training, marksmanship sports training
+ - *alley pond park adventure course:* alley pond park adventure course
+ - *amnesty international:* amnesty international, desi/international, girls learn international, key club international, toastmasters international
+ - *and choir:* ad council, and chile, and choir, and clarinet choir, and more, and singing, and track, brass choir, chamber choir, chat and chew, choir, concert choir, gospel choir, mhs choir, minds matter, pm school, red cross, sci fi/horror, show choir, t''ai chi, talent show
+ - *and excellence’ (grace) program:* and excellence’ (grace) program
+ - *and other parent workshops are offered:* and other parent workshops are offered
+ - *and pm or saturday school as needed:* and pm or saturday school as needed
+ - *and technology:* and technology, marine systems technology, math and technology fair, medical technology, technology, women in technology
+ - *animal club:* animal activism club, animal care squad, animal club, animal rights, animal wellness, anime club, anime/manga club, art/film club, asian club, beautification club, caribbean club, drama club, haitian club, junior naacp club, medical club, polar bear club, small animal care
+ - *annual cultural heritage celebration:* annual cultural heritage celebration
+ - *annual gallery walk art exhibitions:* annual gallery walk art exhibitions, annual ‘world''s fair’ exhibition
+ - *annual talent show:* annual coffee house concert, annual talent show, annual turkey bowl, annual welcome back bbq, fashion/talent show, semi-annual student talent show, two annual talent shows, ufo international (talent show)
+ - *anti-bullying:* anti-bullying, anti-bullying alliance, anti-bullying presentations, solitaire-anti-bullying, stand up to bullying, teens against bullying
+ - *arista honor society:* american historical society, arista honor society, arista honors society, beta honor society, english honor society, french honor society, over 80 clubs: arista honor society, science honor society, spanish honor society, victory scholars’ society
+ - *arista national honor society:* arista national academic honor society, arista national honor society, arista national honors society, arista – national honor society, arista-national honor society, arista/national honor society, new york state science honor society, other: national honor society (nhs), presidential honor society, spanish national honor society
+ - *art competitions:* among other destinations, art bookwriting, art competitions, art exhibitions, arts connection, dance (competitive), math competitions, outdoor expeditions, part of the solution (pots), qpa cafe expressions, sing competition
+ - *art crew:* ace garden, activities, alt news, alumni crew, ap prep, arista chapter, art academy, art and career, art classes, art club, art crew, art in nyc, art shows, art therapy, arts shows, autism speaks, broadcast crew, gardening crew, harry potter, hip-hop crew, iron chef, javascript, n.y.c.s.e.f, nyu preview2, pit crew, sat prep, sat/act prep, stage crew, tech crew, test prep
+ - *art design and exhibition:* art club and exhibition, art design and exhibition, website design and maintenance
+ - *art exploration:* agriculture publication, art exploration, arts exploration, career exploration, marketing/public relations, online exploration, writing/progressions
+ - *art explorers:* art exhibits, art explorers, career exploring, city explorers, emt explorers, explorers, fdny explorers, nyc explorers club, nypd explorers, nypd law enforcement explorers, nypd youth explorers, saturday explorers, science explorers, tywls explorers, urban explorers
+ - *art studio:* acting studio, art portfolio, art studio, art studio group, artistic, arts studio, digital art studio, ell acting studio, film studies, graphic art studio, middle east studies, museum studies, open art studio, open art studios (film, recording studio
+ - *art workshops:* adobe photoshop, art workshops, clay workshop, drama workshop, guidance workshops, hip-hop workshop, job readiness workshops, portfolio workshop, saturday workshops, warrior scholars
+ - *articulate lady scholars (pearls):* articulate lady scholars (pearls)
+ - *artist residencies:* acting & directing in film, art residencies, artist residencies, artist-in-residence program, autism awareness, readers in residence
+ - *arts:* ace2, activism, aerobics, afjrotc, aids), archon, argus, arista, art, arts, artsonia, auto, ballroom, bota, car wash, cas, crafts, cte, games, girls, health, jazz, jiu jitsu, jrotc, k-pop, karaoke, karate, lbgtq, macy’s, math, murals, parkour, paws, pbis, pry, rrocs, sapis, saya!, trio, trips
+ - *arts & dance festival and talent show:* arts & dance festival and talent show
+ - *asian:* african, aids walk, albanian, amigo, asian, aspira, aspire, astronomy, aviation, backgammon, buildon, caribbean, digital, egyptian, fashion, fashion show, haitian, hispanic, islamic, italian, japan, mad asian, nashville, nyseslat, piano, python), rka idol, spain, sri lankan, thespians, tibetan, vision, yu-gi-oh
+ - *asian american:* afro-american, ap summer camp, asian american, asian-american, brilliant cheer pack, financial literacy, haitian relief fund, russian heritage
+ - *asian american association:* asian american association, forest hills law association, global careers and education, italian-american association, presidents’/captains’ association, senior leadership association
+ - *asian culture:* arts and cultural trips, asian cultural society, asian culture, asian cultures, christian culture, clubs: african culture, dance my culture, dc and cuny/su, greek culture, hispanic culture, jewish culture, korean pop culture, muslim and jewish culture, south asian culture, spanish culture
+ - *asian dance:* advanced dance, african dance, anime manga, asian dance, assistance, bachata dance, belly dance, black alliance, break dance, campus-wide dance, caribbean dance, ceramic/advanced art, indian dance, islands of tolerance, latin dance, lion dance, nia dance, ny learn japanese, praise dance, saltare (dance), the alliance
+ - *audio (at a live radio station):* audio (at a live radio station)
+ - *audio recording:* audio recording, audition coaching, fashion forecasting, hydroponic gardening, radio rookies, rock & recording, studio recording
+ - *automotive troubleshooting team:* automotive troubleshooting team
+ - *ballroom dance:* ballroom and latin dance, ballroom dance, ballroom dancing, bollywood dance, courtroom drama, latin groove dance, travel allowances
+ - *banneker brothers united:* banneker brothers united, banneker sisters united, city poly brothers united
+ - *base ambassadors:* ambassadors, base ambassadors, clara barton ambassadors, class ambassadors, elro ambassadors, health ambassadors, house ambassadors, lincoln ambassadors, pbis ambassadors, q2l ambassadors, recruiting ambassadors, scholar ambassadors, student ambassador, student ambassadors, tech ambassadors
+ - *basketball:* and basketball, asset labs, baseball, basketball, basketball intramurals, basketball team, basketball), boys basketball, boys football, fashionville, flag football, football, handball, junior basketball club, softball, volleyball
+ - *battle of the grades’ (schoolwide sports:* battle of the grades’ (schoolwide sports
+ - *beat production & studio recording:* beat production & studio recording
+ - *benjamin banneker musical chorus group:* benjamin banneker musical chorus group
+ - *big brothers big sisters:* big brother & big sister, big brother big sister, big brother/big sisters, big brothers big sisters, big brothers big sisters of nyc, big brothers/big sisters, ell big brother/big sister
+ - *big sibs/little sibs:* big siblings/little siblings, big sibs/little sibs, big sibs/little sibs peer mentoring
+ - *black student union:* bhsec student''s union, black student alliance, black student union, jewish student union
+ - *blood drive:* annual blood drive, blood donation drives, blood drive, blood drives, blues rock), book drive, canned food drive, clothing drive
+ - *bloomberg executive leadership program:* bloomberg executive leadership program, bronx zoo future leaders program
+ - *book club:* 4h club, book circles, book club, book clubs, book worms, broadcast, cooking club, cookingtrack club, crochet club, debate club, dj club, eco club, key club, korean club, law club, lgbtq club, math club, movie club, open lab, outdoors club, rif raf book club, rock camp, rock climbing, track club, yearbook club, yoga club, yuga club
+ - *boys'' discussion group:* boys'' discussion group, discussion groups, girls'' discussion group
+ - *brooklyn college community partnership:* brooklyn college community partnership
+ - *brooklyn student advisory council:* bronx student advisory council, brooklyn student activity council, brooklyn student advisory council
+ - *brothers and sisters groups:* brothers and sisters groups, the brotherhood and girl’s group, various ethnic and cultural groups
+ - *but not limited to: student government:* but not limited to: student government
+ - *campus youth leadership group:* campus youth leadership group, ladies'' leadership group, mayor''s youth leadership council
+ - *capoeira (brazilian martial arts):* capoeira (brazilian martial arts)
+ - *career day:* aids awareness day, can you 24?, career day, career fair, career vision, career week, chamber music, charity walks, concert band, extended day, field day, harbor seals, harlem dna lab, ny career day, peace day, saturday
+ - *career development:* career development, harlem is (dwyer docents), portfolio development, vanguard movement, website development
+ - *center for urban pedagogy (cup):* center for urban pedagogy (cup)
+ - *chamber groups such as guitar ensemble:* chamber groups such as guitar ensemble
+ - *changing the odds:* changing the odds, changing the odds (cto), harmony in the halls
+ - *cheerleading team:* athletes helping athletes, cheerleading, cheerleading club, cheerleading team, cheerleading/dance, girls cheerleading squad, livestock judging team
+ - *chemistry and physics olympiads:* chemistry and physics olympiads
+ - *chess team (nationally ranked):* chess team (nationally ranked)
+ - *chinese club:* 9th grade home club, business club, chess club, chinese calligraphy, chinese club, chinese culture, chinese drama, chinese erhu, chinese new year show, chinese yo-yo, feminist focus, fitness club, hip hop club, lunchtime cafe clubs
+ - *chinese language and culture:* chinese language and culture, russian language and culture
+ - *choral ensemble:* bronx arts ensemble, choral ensemble, guitar ensemble, jazz ensemble, music ensemble, percussion ensemble, string ensemble, two choral ensembles, vocal ensembles
+ - *christian fellowship:* christian fellowship, seekers christian fellowship
+ - *christian students:* brazilian jiu-jitsu, christian seekers, christian students, dance for non-dance students, latin american students, progressive student awareness, sophisticated gents, vocal and instruments
+ - *citywide performances in vocal music:* citywide performances in vocal music
+ - *classics:* accessories, big sibs, ceramics, classic film, classic rock, classical, classics, club 360, crossfit, cult classics, feastivus, forensics, graphic, gymnastics, humanities, msg classroom, physics, recycle-a-bicycle, spades/chess
+ - *clubs: animal rights & vegetarian:* clubs: animal rights & vegetarian
+ - *college and health fairs:* college and career fair, college and career fairs/tours, college and field trips, college and health fairs, concert and jazz bands, science and health fairs
+ - *college and scholarship:* college and scholarship, college set (scholarship program), gentlemen scholars, women’s bond club scholarship
+ - *college discovery:* college discovery, college discovery day, double discovery, project discovery
+ - *college essay writing weekend workshops:* college essay writing weekend workshops
+ - *college preparation:* ap preparation, college exploration, college prep workshops, college preparation, college preparatory, college preparatory workshops, college visitations, old hat illustration
+ - *college readiness:* chinese/korean/japanese, college access, college awareness, college for every student (cfes), college planning and access, college readiness, college summit peer leaders, gallery exhibits, jobs/college readiness, leadership and college readiness
+ - *college trips:* business trips, college bound, college excel, college fair, college fairs and trips, college field trips, college guidance, college now, college planning, college prep, college start, college summit, college tours, college trips, college tutoring, college visits, field trips, museum trips
+ - *college/cultural trips to washington:* college/cultural trips to washington
+ - *comedy:* archery, close up, coderdojo, college, comedy, comedy improv, comics, computers, concert, coptic, cosmetology, cosplay, crochet, ecology, gateway, hockey, ice hockey, improv comedy, model un, mole day, movies, new media, pi day, welcome week, women’s
+ - *community service:* community cares, community council, community improvement, community justice, community service, community service clubs, computer service squad, good shepherd services, icare community service, interact service, ny cares youth service, opportunity network, teens at service, youth service
+ - *community service project:* alt community service committee, community development project, community service (helping-hands), community service (soup kitchen), community service interest club, community service learning, community service outreach, community service program, community service project, community service projects, community service through the arts, community-based service projects, school/community service projects, urban dna bar code project
+ - *competitive step dance:* comparative literature, competitive ballroom dancing, competitive citywide robotic team, competitive speech and debate, competitive step dance
+ - *computer graphics:* comic book/graphic novel, committee for girls, computer and robotics, computer animation, computer coding (c++, computer graphic arts, computer graphics, computer graphics/art, computer literacy for families, computer programming, computer programming/gaming, computer repair, computer video game design
+ - *computer tech:* campaña verde, composer craft, computer, computer & tech, computer (it) club, computer lab, computer science, computer tech, computer/cisco
+ - *computer/technology team:* co-ed interschool soccer team, computer technology squad, computer/technology, computer/technology team
+ - *conflict resolution:* conflict mediation, conflict resolution, conflict resolution team
+ - *conflict resolution and mediation:* conflict negotiation and mediation, conflict resolution and mediation, conflict resolution/peer mediation
+ - *consensus-based decision-making:* consensus-based decision-making
+ - *construction challenge:* construction challenge, construction skills, instructional technology, microsoft summer challenge, monthly town hall meetings
+ - *contrariwise philosophy journal:* contrariwise philosophy journal
+ - *cooking and marital arts clubs:* cooking and marital arts clubs, cooking club with health corps
+ - *creative connections:* creative coding for girls, creative connections, election connection, festival of nations, peer group connections dance, professional field connections
+ - *creative writing:* batik t-shirt printing, creative arts group, creative writers’ workshop, creative writing, creative writing and journalism, drumline (spring), innovative voices writing, poetry/creative writing team, tribeca movie making
+ - *culinary institute:* culinary event planning, culinary institute, efficacy institute, gateway institute, high school law institute, holiday spectacular, summer institute
+ - *culture:* bicycle repair, bumblebee, callandra, color guard, culinary, culture, documentary, guitar), humanitube, literature, multimedia, outdoors, scrabble, sculpture, sculpture)
+ - *culture club:* adventure club, college club, culinary club, cultural clubs, cultural studies in china, culture club, culture clubs, culture clubs (jewish, film/documentary club, first aide club, hispanic cultural club, history club, jewish culture club, multimedia club
+ - *cuny arts:* bronx works, business art, b’nai b''rith, city harvest, clubs: art, community arts, concerts, culinary arts, cuny arts, cycling smarts, fine arts, mural art, navy jrotc, nu gamma psi, penny harvest, play it smart, visual arts
+ - *cuny college now:* (cuny) college now, bronx 12 quiz bowl, cuny college now, think cuny college now
+ - *current events through media:* current events through media
+ - *dance and music productions:* annual fall musical production, dance and music productions, dj and music production team, electronic music production, making beats music studio production
+ - *dance company:* and chorus companies, attendance achievers, dance (latin, dance company, jow-ile-bailar dance company, lab theater company, nurange dance company, qc dance company, theater company, theatre company
+ - *dance group:* advanced art, advanced english, animal rescue group, cihs tech group, common grounds, dance group, dance programs, dance show, dance troupe, dance/step, drumming group, latino dance group, naval jrotc, parent support group, praise dance troupe, save darfur, staff inquiry groups, tae kwon do, vocal troupe
+ - *dance step team:* agriculture sales team, ap history team, dance and step team, dance level 1 and 2, dance step team, dance/cheer team, the step team, wingate generals step team
+ - *deca:* bengali, beta, book, c-cap, dance, dances, debate, deca, desi, dj, dj class, eco, excel, french, golf, hair, hebrew, hope, indo-pak, judaica, key, mecca, media, medical, minecraft, nepali, opera, peace, rock, soca, tech, tech gals, vocal, webpage
+ - *digital learning:* apex online learning, digital creations, digital documentaries, digital filmmaking, digital imaging, digital learning, digital storytelling, odyssey blended learning, plato learning, service learning, social and emotional learning, work-based learning
+ - *digital media:* bric digital media, digital art, digital cinema, digital design, digital film, digital media, digital media program, digital music, digital video, digital video design, girls like me(dia), individual drama, media team/digital movie, photo and media
+ - *digital music and animation training:* digital music and animation training
+ - *digital photography:* art and photography, artistic: photography, digital photography, digital video/photography, urban arts program: photography
+ - *digital photography and graphic design:* digital photography and graphic design
+ - *directors'' and playwright''s workshop:* directors'' and playwright''s workshop
+ - *display & mannequin styling club:* display & mannequin styling club
+ - *documentary filmmaking team:* documentary & filmmaking, documentary filmmaking team
+ - *drama:* acting/drama, arabic, black, brazil, broadway, canada, clubs: drama, craft, drama, drama), dramas, drums, france, ghana, italy, prom, rafa, saya, track, workout
+ - *drama internships:* camp interactive, capital one paid internships, drama internships, gardening internships, internships, new york aquarium internships, pre-teacher internships, read foundation internships, scholars’ shadow internships, science lab internships, swag male mentorship
+ - *eagles in the afternoon radio show:* eagles in the afternoon radio show
+ - *educational activism:* b.a.m. educational partnerships, educational activism, educational field trips, educational training aids, publication (tech times)
+ - *elective art classes (visual arts:* elective art classes (visual arts
+ - *electric guitar:* beginner guitar, electric guitar, electrical engineers, electronic publishing, song/writing guitar
+ - *electronic classroom equipment:* electronic classroom equipment
+ - *elite:* anime, before, bible, bridge, citadel, clipper, drumline, eat wise, eatwise, egypt, el puente, elite, etiquette, fidelitas, film/tv, film/video, flights, heritage, it, jewish, junior, legati, lgbt, life link, movie, newsletter, pilates, precious, receive, service, theatre, ukulele, unicef, unity, video, voice, website, ‘give
+ - *english and social studies journals:* english and social studies journals
+ - *entrepreneurial leadership:* entrepreneur/start-up workshops, entrepreneurial leadership, princeton center for leadership, safe harbor peer leadership
+ - *environmental:* and volleyball, enrichment, environmental, environmental affairs, environmental awareness, environmental committee, environmental science, environmentalist, envirothon, envirothon team, go-green environmental, independent film, lorax (environmental club)
+ - *environmental and various science clubs:* environmental and various science clubs
+ - *epic theatre shakespeare remix:* epic theatre shakespeare remix, technical theatre (stage crew)
+ - *esl saturday classes for parents:* esl saturday classes for parents
+ - *exhibitions in kenny art gallery:* exhibitions in kenny art gallery
+ - *expanded success initiative (esi):* expanded success initiative (esi)
+ - *explorers program:* early college program, explore your city, explorer program, explorers program, exploring new york, extended day program: arts, nypd explorer program, nypd explorers program, saturday literacy explorers program, wellness program
+ - *extracurricular participation expected:* extracurricular participation expected
+ - *farm (working on a real farm):* farm (working on a real farm)
+ - *fashion and modeling:* anime and video gaming, chorus: signing and singing, fashion and modeling, fashion design and modeling, fashion with a purpose, fashion/modeling, mentoring and medicine, sailing and boatbuilding
+ - *fed challenge:* and special events, euro challenge, euro- challenge, fed challenge, fed-challenge, federal challenge, federal reserve challenge, first tech challenge, fitness challenge community, job shadowing, math challenge, stock market challenge, the challenge
+ - *fegs work readiness program (wia):* fegs work readiness program (wia)
+ - *field trips to broadway and off-broadway:* field trips to broadway and off-broadway
+ - *film screenings:* family arts nights, film making, film screenings, movie screenings, silk screening
+ - *financial literacy certification:* cpr and first aid certification, financial literacy certification, wise financial literacy program
+ - *fine and visual arts (ceramics:* advanced visual arts classes, fine and visual arts (ceramics, visual arts (ceramics
+ - *first robotics:* first aid/cpr, first robotics, first robotics team, first tech robotics team 2895, garage robotics, history through movies, lego robotics, maritime: aquabotics, robo-wizards (robotics), sigma sorority, stem/robotics
+ - *fit and fly at new york sports club:* fit and fly at new york sports club
+ - *fit for life:* baile folklorico, cook for life, council for unity, diy (do it yourself), film and video, fit for life, habitat for humanity, hip hop 4 life, hip hop for life, just for girls, knit for kids, relay for life, smiles for miles, toys for tots
+ - *flying dragons cross country running:* flying dragons cross country running
+ - *food justice policy council:* food justice policy council, youth food policy council
+ - *foreign language:* american sign language, and sign language, foreign exchange, foreign language, sign language
+ - *freshman year initiative:* disaster relief initiatives, freshman leadership initiative, freshman year initiative
+ - *full piano lab with 30 keyboards:* full piano lab with 30 keyboards
+ - *fundraising committee:* faculty and staff hiring committee, fundraising committee, fundraising committees, graduation committees
+ - *future engineers of america:* future business leaders of america, future educators of america, future engineers of america, future teachers of america, future voters of america
+ - *future leaders of america (fbla):* friends of latin america (fola), future farmers of america (ffa), future leaders of america (fbla)
+ - *future project:* bronx river project, future doctors, future project, moth project, mural projects, pencil project, tech internet radio project, the future project
+ - *g-12 technology program with nyu:* g-12 technology program with nyu
+ - *gallatin great works project (nyu):* gallatin great works project (nyu)
+ - *gamers club:* ambassador''s clubs, coders club, game design club, gamer haven, gamers club, gamer’s republic, gentlemens club, jko leaders club, ladies club, maker club, newspaper club, right brain club, rocketry club, talent club, young lawyers club
+ - *gaming:* acting, badminton, baking, camping, claymazing, climbing, coding, cooking, dancing, dj mixing, eat nyc, family night, feminist, filmmaking, gaming, gardening, geocaching, journalism, latin, latino, magazine, reading, readings, shamisen, swimming, talent
+ - *gay straight alliance (gsa):* gay and straight alliance (gsa), gay straight alliance (gsa), gay-straight alliance (gsa), gay/straight alliance (gsa)
+ - *gay-straight alliance:* gay straight alliance, gay-straight alliance, gay-straight- bisexual alliance, gay/straight alliance, queer-straight alliance, straight & gay alliance
+ - *gender & sexuality alliance:* gender & sexuality alliance, gsa (gender-sexuality alliance)
+ - *generationon (student government):* cougar council (student government), generationon (student government), sat preparation student government
+ - *girls club:* 90''s club, civil rights club, duelist club, ell club, film club, first ladies club, garden club, girl talk, girl up, girl up club, girls club, girls inc., girls powerplay, girls softball, girls talk, girls volleyball, girls’ club, journalism club, sci-fi/horror club, unity (girls club)
+ - *girls empowerment club:* girls & boys empowerment club, girls empowerment club, girls empowerment group
+ - *girls group:* acapella groups, boys group, boys'' group, brother’s group, girl power group, girls gazette, girls group, girls night out, girls who code, girls'' group, improv group, musical groups, my way girls group, sistah’s group
+ - *girls’ leadership and mentorship (glam):* girls’ leadership and mentorship (glam)
+ - *global girls:* b-boy/b-girl, glamor gals, glamour gals, glamour girls, global action project, global awareness, global girls, global glimpse, global kids, global outreach, globaloria, leap for girls, smheart girls
+ - *grade level advisors/ombudsmen:* grade level advisors/ombudsmen
+ - *grand master-coached chess team:* grand master-coached chess team
+ - *graphic design:* architectural design, art and design, costume design, fashion design, graffiti mural, graphic arts, graphic design, graphic design elective, graphic design), graphic novel & animation, group piano lessons
+ - *green:* career, cheer, crew, gallery, game, garden, german, glee, glsen, go green, greece, greek, green, group green, investment, ireland), korean, paleo, pre-med, regents, speech, travel, violin
+ - *green house:* green house, greenhouse, ilearn courses, lyricist lounge, ny greenhouse, open house, spring showcase, talent shows, writers'' posse
+ - *green team:* action team, brain bee, chess team, dream team, drill team, equine team, fitness team, foreign film, green club, green roof team, green team, green tech, independent study, inventeam, media green team, newsletter team, open gym, open team, recycling team, speech team, stepping team, teen talk, teen theater, wellness team
+ - *guitar class:* advocacy class, and guitar clubs, drama class, guitar and piano, guitar class, guitar club, guitar fest, guitar lessons
+ - *health & nutrition:* cornell nutrition, food & nutrition, health & nutrition, health/nutrition
+ - *health and fitness:* chess club and class, health and fitness, health and wellness, hearts on a string, running and fitness, weight room and others
+ - *health corps:* deck the doors, harbor corps, health corps, health corps/teen action, health science, healthcorps, healthwise, healthy heart, she’s the first, teen health educators, the gauss contest, the moth storytellers
+ - *health occupations student association:* health occupation students, health occupations student association, health occupations students of america
+ - *hip hop dance team:* african dance team, chimera concept dance team, dragon dance team, hip hop dance team, hip-hop beat making & rhyming, hip-hop dance, spirit squad dance team, step & dance team
+ - *hip-hop dance and cheerleading teams:* hip-hop dance and cheerleading teams
+ - *hip-hop saves lives:* hip hop saves lives, hip-hop saves lives, humans of francis lewis
+ - *history:* advisory, anatomy, art history, biology, boatworks, chemistry, gastronomy, hip-hop, hip-hop), history, keyboard, library, literacy, nyc & nys history day, orchestra, prostart, rotary, sisterhood, study, weightroom
+ - *hiv/aids peer education program:* girls inc. of nyc teen program, hiv/aids peer education group, hiv/aids peer education program
+ - *holy child food pantry (food drive):* holy child food pantry (food drive)
+ - *homework center:* advisory system, esl homework center, homework assistance, homework center, homework help, homework helpers, ost homework help, spoken word (open mic), wellness center
+ - *homework help & tutoring services:* homework help & tutoring services
+ - *honor society:* archon society, artists society, biomed society, celtic society, chamber music society, historical society, homeric society, honor society, honors math, humane society, indoor soccer, ivy society, math honor society, math honors society, math society, poem in your pocket, save our society, service society, shakespeare society, young poets society
+ - *honors orchestra:* chamber orchestra, doctors of tomorrow, honors breakfast, honors orchestra, movies in history, school orchestra, steel drum orchestra
+ - *horticulture:* africa tours, architecture, enviro-horticulture, floriculture, hebrew culture, horticultural, horticulture, horticulture/gardening, multicultural, world cultures
+ - *hsgc ambassadors student leadership:* hsgc ambassadors student leadership
+ - *hydroponic & horticulture programs:* hydroponic & horticulture programs
+ - *hydroponics and aquaponics internships:* hydroponics and aquaponics internships
+ - *i challenge myself bicycling program:* i challenge myself bicycling program, i challenge myself cycling program
+ - *including cooking:* including cooking, including: gaming club, iron chef cooking, recipe writing/cooking, sustainability: composting, wnyc radio rookies
+ - *independent art studio morning program:* independent art studio morning program
+ - *inews:* bthsnews, chess, chinese, cinema, clinton news, ensembles, fairness, finance, fitness, iam news, inc., inews, intel, intensives, internet, newspaper, nyu mini-meds, one world, tennis, unitas
+ - *instrumental music club:* disney’s magic music days, glee and other music clubs, instrumental and jazz bands, instrumental and vocal music program, instrumental music, instrumental music (lessons), instrumental music and band, instrumental music club
+ - *intensive instructional support:* intensive instructional support, senior instructional leadership core
+ - *international food club:* international book club, international bridge building, international food club, international food festival, international key club, international trip club
+ - *international thespian society:* international thespian honor society, international thespian society, national thespian society
+ - *international travel opportunities:* community volunteer opportunities, international center for photography, international travel opportunities, work-based learning opportunities
+ - *international trip:* ice skating at central park, international, international arts exhibition, international club, international construction, international exchange, international festival, international students, international travel, international trip, international trips, internships within fdny
+ - *international youth leadership institute:* international youth leadership institute
+ - *intramural sports:* central park sports, intra-mural league, intramural athletics, intramural sports
+ - *introduction to computers:* introduction to computers, introduction to law, introduction to medical careers
+ - *japanese culture and anime:* asian culture and dance, chinese culture and enrichment, japanese culture and anime, japanese culture and language
+ - *jsa debate team:* activities: debate team, clubs: debate team, debate team, dna research team, jsa debate team, psal sports teams, varsity and jv math team
+ - *junior achievement:* junior achievement, junior achievement of new york, junior advisor mentors, rewarding achievement (reach)
+ - *junior air force rotc drill team:* junior air force rotc drill team
+ - *junior grade leaders:* bank of america future leaders, french for native speakers, freshman grade leaders, junior grade leaders, school student leaders, sophomore grade leaders, spirit squad (cheerleaders)
+ - *junior state of america:* jr. statesmen of america, junior state of america, junior statesman of america (jsa), summer camps for summer band
+ - *kaplan sat prep:* band/nyssma prep, campus bands (pep, kaplan college prep, kaplan sat prep, kaplan sat prep class, kaplan sat prep courses, kaplan sat tutoring, kaplan saturday sat prep, psat and sat prep, psat/sat prep, revolution sat prep
+ - *katrina relief and recovery project:* katrina relief and recovery project
+ - *knitting & crochet:* knitting & crochet, knitting & crocheting, knitting and crochet, knitting circle, knitting/crocheting
+ - *korean fan dancing:* forest hills running, korean fan and pop, korean fan dancing, korean pop dance, kurt hahn radio and tv, organic urban farming, sophomore and freshman councils
+ - *latin and african dance:* hip-hop african dance, latin and african dance, latin and modern dance
+ - *leadership class:* cfes leadership class, leadership class, leadership classes, leadership council, leadership in sports, leadership team, letters to heroes, peer leadership class
+ - *leadership program:* and internship program, class leadership program, coro leadership training program, internship program, leadership & support: skills, leadership program, leadership programs, leadership project, leadership trip to korea, partnership programs in art, tribeca film program
+ - *liberty partnership:* entrepreneurship, liberty partnership, pace liberty partnership, union square partnership, university partnerships
+ - *library open access for circulation:* library open access for circulation
+ - *lincoln-douglas debate team:* lincoln-douglas debate, lincoln-douglas debate team, polaroid. lincoln douglas debate team
+ - *literacy and robotics:* engineering and robotics, literacy and numeracy, literacy and robotics
+ - *literary journal:* art and literary journal, law journal, library chit chat, library squad, literacy lab, literary and art journal, literary arts journal, literary guild, literary journal, medicus journal, panther press journalism
+ - *literary magazine:* art magazine, arts magazine, bhsec literary magazine, gateway to medicine, imag fashion magazine, innovation magazine, iris literary magazine, library media center, literary magazine, literary magazines, student literary magazine, student magazine
+ - *literary magazine (trope):* literary magazine (one pen), literary magazine (trope), literary magazine (‘hype’), literary magazine ‘magpie’
+ - *literature circles:* generation citizen, literature circle, literature circles, restorative circles
+ - *lunch and after-school tutorial:* before- and after-school tutoring, lunch and after-school tutorial, pm school and after-school tutoring
+ - *male & female mentoring:* elro sibs (peer mentoring), large and small group mentoring, male & female mentoring, male and female empowerment class, morris academy mentoring
+ - *marine science:* awareness (animal, forensic science, in-house plant science, lang science, mac (making a change), make a difference, making a difference, marine science, mckinney scribbers, medical science, neuroscience, pre-medical science, space science, teaching assistants, women in science
+ - *maroon & gold beautification team:* maroon & gold beautification team, murals and school beautification
+ - *math and science magazine:* elro experiment science magazine, fantasy science fiction, insight 182 online magazine, math and language magazines, math and science magazine, quantum cat literary/science magazine, schwartz science scholars
+ - *math peer tutoring:* cross-age tutoring, daily peer tutoring, east harlem tutorial, lunchtime tutoring, math peer tutoring, math problem solving, peer and teacher tutoring, peer to peer tutoring, santa’s helpers toy drive, small group tutoring, tutoring/peer tutoring
+ - *math team:* alpha fem, city outreach, csi team, dance team, law team, math bowl, math center, math league, math olympiad, math research, math team, math zone, mathletes, mock trail, moth storyslam, mu alpha theta, muy thai, ragtime piano, step team, table tennis, tech team, we the people, web team
+ - *mathematics:* athletic, athletics, band (the daredevils), change makers, craftmatics, face the music, mathematica, mathematics, raices latinas, saga mathematics
+ - *media arts:* dental assist, edison spirit, graffiti arts, helping hands, martial arts, media arts, media crew, media mavens, mix martial arts, radio rootz, red berets, studio art, studio arts, summer in japan, visual art
+ - *mediation and negotiation:* design and illustration, drumming and improvisation, mediation and negotiation, mediation-negotiation, peer mediation & negotiation, peer mediation and negotiation, peer tutoring and mediation, the citizen and the constitution
+ - *meditation:* additionally, animation, canstruction, claymation, exceptional, illustration, improvisation, jewish union, liberation, mediation, meditation, meditation/yoga, mediterranean, my generation, percussion, publications, radio station, reaction, teen action, television
+ - *men of strength:* men of distinction, men of majesty, men of strength, odyssey of the mind, the men of strength, voices of the high choir, women of strength
+ - *mentor program:* advisory program, ambassadors program, belmont players drama, debate program, feed the hungry campaign, forensic program, geriatric program, imentor program, mentor program, modern dance program, music program, posse program, senior buddy program, summer jobs program, theater program, theatre program, veronica program
+ - *mentoring:* badminton / ping pong, cartooning, engineering, extraordinary, imentor, mandarin, meca-zine, mentor, mentoring, mentoring groups, mentors, mentorships, modeling, museum hopping, ping-pong, pre-nursing, recycling, savvy mentoring, summer bridge, tagai mentoring, tailoring, tech bridge, tutoring, volunteering, woodworking
+ - *mentoring with various organizations:* mentoring with various organizations, mentoring with visiting artists
+ - *men’s club:* bengali club, delta club, desi club, explorer’s club, french club, gentleman’s club, henkels & mccoy, henna club, jewish club, leo''s club, magic club, men’s choir, men’s club, more than 90 clubs, music club, seniors’ club, skillbuilder’s club, talent pop club, tennis club, the men''s club, women’s club, women’s group, young men''s club, zumba club
+ - *middle college national consortium:* middle college national consortium
+ - *midwood currently has more than 50 clubs:* midwood currently has more than 50 clubs
+ - *mock trial at new york law school:* mock trial at new york law school
+ - *mock trial team:* aircraft structural repair, hard rock & heavy metal, mock trial, mock trial and debate teams, mock trial and moot court, mock trial team, mock trial/law, moot court and mock trial teams, moot court team, njrotc drill team, stock market game, vocal & piano jam
+ - *model united nation:* model united nation, model united nations, modeling and fashion
+ - *montefiore medical center project:* montefiore medical center project
+ - *monthly family resource fairs:* monthly family resource fairs
+ - *more than twenty campus clubs offered:* more than twenty campus clubs offered
+ - *more than twenty-five additional clubs:* more than twenty-five additional clubs
+ - *morgan stanley mentoring program:* governor’s committee mentoring program, morgan stanley internship program, morgan stanley mentoring program
+ - *mouse squad:* double dutch, flag squad, marine lab squad, mouse squad, mouse squad/tech squad, movie night, ski & snowboard, spirit squad, step squad, tech squad, the mouse squad, uai research squad
+ - *mouse squad (for technical support):* mouse squad (for technical support)
+ - *movement theater level 1:* movement theater level 1, movement theater level 2
+ - *mu alpha theta math honor society:* mu alpha theta (math honor society), mu alpha theta honor society, mu alpha theta math honor society
+ - *multicultural shows:* multicultural aspects, multicultural club, multicultural clubs, multicultural festival, multicultural night, multicultural show, multicultural shows, talent and multicultural shows
+ - *multisquad (multicultural student group):* multisquad (multicultural student group)
+ - *mural painting:* break dancing, civil engineering, community mural painting, cultural outings, korean painting, mural painting, mural painting club, portfolio planning, screen printing
+ - *murrow cares (charity drives):* murrow cares (charity drives)
+ - *music appreciation:* art appreciation, film appreciation, japanese appreciation, microsoft applications, music appreciation, music appreciation society, music composition, music composition lab
+ - *music band:* art/music fair, beginner’s band, executive board, jazz band, justice panel, latin band, marching band, music (drums, music band, music camp, musical bands (jazz, musicals, public speaking, rock band, smphonic band, symphonic band, two jazz bands
+ - *music performances:* asl performance, cafe performances, dance performances, dramatic performances, multicultural performances, music performances, music section leaders, musical performances
+ - *musical and dramatic theater productions:* musical and dramatic theater productions
+ - *musical concerts:* annual concerts, bhsec connect, festival of the arts, holiday concert, jazz and concert), model congress, music concerts, musical concerts, spring concert, symphonic and concert bands, three full concert bands, vocal music (concert choir
+ - *musical productions:* american red cross, animal protection, full-scale musical production, music production, music production/songwriting, musical and dramatic plays, musical and play productions, musical productions, smash arts productions, spring musical production, spring play production, two musical productions
+ - *musical theater:* black box theater, classic literature, drama and theater, lamplighters theater, manhattan theater, musical instruments (guitar), musical theater, musical theatre, mvb voices/musical theater, theater and musical theater
+ - *musical theatre & instrumental music:* musical theatre & instrumental music
+ - *muslim student association:* bhsec student activist network, chinese student association, korean student association, muslim student alliance, muslim student association, muslim student association (msa), muslim students association, sikh student association
+ - *national and local chess championships:* national and local chess championships
+ - *national honor society:* and national honor society., national dance institute, national educator program events, national honor society, national honor society (arista), national honor society (nhs), national honor society/arista, national honors society, national park service, nys science honor society, pegasus technical honor society
+ - *national society of black engineers:* national society of black engineers, society of hispanic engineers
+ - *national spanish honor society:* foreign languages honor society, italian and spanish honor societies, national history honor society, national junior honor society, national language honors society, national spanish honor society, national technical honor society
+ - *new settlement college access center:* new settlement college access center
+ - *new visions student voice team:* new visions student voice team
+ - *new york city experience:* new york academy of medicine, new york city experience, new york knicks’ poetry jam, new york urban debate league, the new york hall of science
+ - *new york council for the humanities:* new york council for the humanities
+ - *new york science & engineering fair:* new york science & engineering fair
+ - *newspaper and publications:* newspaper (‘b.q. broadside’), newspaper and publications, student-designed publications
+ - *opening act:* beginning vocal, dj''ing 101, drama-opening act, eagle gives back, learning passport, open act, open mics, opening act, opening act (theater), opening act drama, penguin report, running/track, spelling bee, spelling bees, thanksgiving feast
+ - *opportunities from: summer search:* opportunities from: summer search
+ - *opportunity for more student-led clubs:* opportunity for more student-led clubs
+ - *others based on interest:* additional clubs based on interest, and others proposed by students, based on student interest, other clubs by student request, others based on interest
+ - *outdoor adventure:* nyc outward bound adventure, outdoor adventure, outdoors experience, project adventure
+ - *over 40 after school clubs including:* over 40 after school clubs including
+ - *peer leaders:* best buddies, cheerleader, cheerleaders, gilder lehrman, learning leaders, math leaders, peer academic teams, peer counselors, peer helpers, peer leaders, peer leadership, peer mentors, peer mentorship, power luncheons, power writers, pre-teachers, readers are leaders, research electives, spark peer helpers, teen choice peer leaders
+ - *peer leaders and tutoring:* cheerleaders and boosters, early morning tutoring, esl immersion tutoring, homework help and tutoring, peer counselors and mentors, peer leaders and tutoring, saturday classes and tutoring, weekend and vacation tutoring, young leaders on the rise
+ - *peer leadership programs:* aspira of new york leadership program, fisher rock leadership program, model peer leadership program, peer leadership advisories, peer leadership group, peer leadership programs, spark (leadership program), the leadership program
+ - *peer mediation:* driver education, japanese animation, ny peer mediation, peer educators, peer mediation, peer mediation center, peer mediation club, peer mediation team, peer mediators, posse foundation, public declamation, teen chef battle, vessel operations
+ - *peer mediation & conflict resolution:* mentoring and conflict resolution, peer mediation & conflict resolution, peer mediation and conflict resolution, peer mediation/conflict resolution
+ - *peer mediation program:* conflict mediation program, cooper hewitt design program, hayden math & science programs, literature appreciation program, peer mediation program, peer mediation program/certification, peer mediation training, peer mediation training program, tutoring & mediation programs
+ - *peer mentoring program:* alumni mentoring program, big sib mentoring program, hunter college nursing program, p3 peer mentoring program, peer mentor program, peer mentoring program, peer mentorship program, peer tutoring program
+ - *peer training:* caas thanksgiving, career cruising, event planning, fitness training, jewelry-making, life guard training, lifeskills training, manhood training, peer counseling, peer teaching, peer training, pretty in pink, weight training
+ - *penny harvest philanthropic:* penny harvest philanthropic
+ - *pep & latin jazz band:* afro-latin jazz band, pep & latin jazz band, preparatory jazz band, rock and latin jazz bands
+ - *performing arts:* exploring da heights, fine and performing arts (dance, performance art, performance perspectives, performances, performing arts, performing arts club, performing arts major showcase, programming (java), theater & performing arts, theater/performance arts, visual and performing arts
+ - *petrides chapter of habitat for humanity:* petrides chapter of habitat for humanity
+ - *photography:* and photography, math through card play, nature photography, oceanography, philosophy, photography, photography class, photography club, photography), photography/art, photography/film, photojournalism, photovoice, videography
+ - *photography and digital art:* photography (dark room and digital), photography and digital art, royal academy of digital arts
+ - *physical fitness:* female fitness, physical fitness, physical fitness (spring), physical fitness training, physical science, political awareness, political discussion, tropical fish
+ - *piston pride newspaper:* ''lincoln log'' newspaper, ''pawprint'' online newspaper, ''the network'' newspaper, academy gazette newspaper, bard bulletin online newspaper, bardvark student newspaper, kurt hahn ‘chronicle’ (newspaper), piston pride newspaper, radish satirical newspaper
+ - *pm school (credit recovery):* pm school (credit recovery), pm school for credit accumulation, targeted credit recovery
+ - *poetry /spoken word:* hip-hop/spoken word poetry, poetry /spoken word, poetry and monologue, poetry/spoken word
+ - *poetry and writing competitions:* certamen (latin competition), drill and orienteering competitions, poetry and writers institute, poetry and writing competitions, poetry out loud competition
+ - *poetry cafe:* bailey’s cafe, exemplary women, joffrey ballet, poetry cafe, poetry out loud, poetry read aloud, poetry seminars, poetry slam, poetry slams, poets'' cafe, poets'' corner, policy debate, rooftop garden
+ - *pre-professional training in dance:* pre-professional training in dance
+ - *presentations at city/state conferences:* presentations at city/state conferences
+ - *principal''s advisory council:* principal''s advisory, principal''s advisory council, principal’s advisory committee, principal’s advisory council
+ - *principal''s consultative council:* principal''s consultative council, principal’s consultative student council, student consultative council
+ - *principal’s book club:* principal''s book club, principal’s book club, principal’s panel, simon & schuster book club, transit yearbook club
+ - *programming and software development:* programming and software development
+ - *project hope:* jpmorgan live, production, project hope, project male, project prize, project reach youth, project read, rosetta stone, splashes of hope
+ - *project lead with lincoln center:* project lead with lincoln center
+ - *psat and sat preparation:* psat and regents preparation, psat and sat prep skills, psat and sat preparation, psat and sat preparatory classes, regents and sat preparation, regents examination and sat preparation
+ - *reading excellence and discovery (read):* reading excellence and discovery (read)
+ - *readings and performances:* poetry writing and performance, readings and performances, theater and dance performances
+ - *reality works real baby program:* educate for peace and progress, reality works real baby program
+ - *regents preparation:* art portfolio preparation, dreamyard prep - studio art, nys regents preparation, regents exam preparation, regents prep, regents preparation, regents review, sat preparation, sat/act preparation, test preparation
+ - *regents preparation & saturday academy:* regents preparation & saturday academy
+ - *research & action (cara) youth leaders:* research & action (cara) youth leaders
+ - *reserve officer training corps (rotc):* reserve officer training corps (rotc)
+ - *respect for all:* breast cancer walk, lunch time touch football, olympics honor roll, respect for all, respect for all program, siemens society for math, ukulele for good
+ - *restorative justice committee:* restorative justice committee, restorative justice program, restorative justice/conflict resolution
+ - *rise to college:* baruch college, field trips to colleges, free the children, kids for college (kfc), princeton model congress, rise to college, rites of passage
+ - *robotics and engineering:* construction and engineering, crocheting and knitting, robotics and engineering
+ - *robotics team:* forensics team, negotiations team, robotics, robotics team, robotics teams, robotics-frc, troubleshooting team
+ - *rock climbing at brooklyn boulders:* rock climbing at brooklyn boulders
+ - *root stem gardening summer internship:* root stem gardening summer internship
+ - *sarah lawrence college student interns:* sarah lawrence college student interns
+ - *sat prep classes:* accelerated classes, art portfolio classes, evening classes, next step pictures, nova net (online classes), photography classes, psat/sat prep classes, regents prep classes, sat prep classes, sat prep course, saturday esl classes, skateboarding pe classes, state of the art playfield
+ - *sat prep program:* a+ computer repair program, ace program, ants plants & us program, east harlem pride sports program, fitness and sports program, fordham step program, sat prep program, sat preparation program, saturday photography program, saturday programs, sbp prep players (drama), step program, step-up program
+ - *saturday academy:* culinary academy, esl saturday academy, regents academy, saturday academic program, saturday academy, saturday academy credit recovery, saturday art directors, urban arts peapod academy
+ - *saturday academy and journalism class:* saturday academy and journalism class
+ - *saturday regents prep:* all subject tutoring/regents prep, history regents prep, math regents prep, saturday literacy center, saturday regents prep, saturday regents preparation, saturday sat prep, science regents prep
+ - *saturday school:* counseling in schools, national chorale, pm and saturday school, pm/saturday school, saturday school, saturday tutorials, saturday tutoring, step in school, study hall
+ - *scholarship:* bangladeshi, hispanic scholarship fund, scholars, scholars hoop, scholars speak, scholarship
+ - *scholastic arts competition:* scholastic art competition, scholastic arts competition, visual & studio arts exposition
+ - *school chorus:* high school heroes, honors chorus, mixed chorus, school choir, school chorus, school dances, school store, school tour guides, silver chord, story corps
+ - *school musical:* annual musical, choir/music, choral music (fall), ethnomusicology, high school musical review, keyboard music, march of dimes walk, school magazine, school musical, school play, school radio (wfda), school spirit team, school website, six-flags music showcase, spring musical
+ - *school newspaper:* crow’s nest newspaper, cyclones newspaper, online newspaper, school newpaper, school newsletter, school newspaper, school website management, school website/digital newspaper, school-based garden, student newspaper, survey school newspaper
+ - *school newspaper (the raven):* journalism/school newspaper (the legacy), school newspaper (the north star), school newspaper (the raven), school newspaper ’paw print’
+ - *school plays and musicals:* and broadway plays and musicals, middle school math and literacy, school carnival (rkarnival), school plays and musicals
+ - *school yearbook:* all school yearbook, crimson and gold yearbook, forester (yearbook), futura yearbook, journalism/yearbook, landmark yearbook, school of rock, school yearbook, senior yearbook, video yearbook
+ - *science league:* brass athletic league, ftc league, lego league, neuroscience brain bee, science bowl, science challenge, science fair, science honors, science lab tech, science league, science of beauty, science outreach league, science trekkies
+ - *science olympiad:* chemistry olympiad, science olympiad, science olympiad team, science olympics
+ - *science research:* astronomy research, authentic science research, clinical research, epic (shakespeare), hs science research pathways, intel research, intel science talent search, science club (smart team), science newsletter, science research, science research club, siemens science research class, summer search, the journal of science research
+ - *seamers:* bhsec cares, champs, dreamers, field meets, gamers, hellenic, leaders, leadership, mck steppers, mcsm improv, patterns, seamers, seekers, self-defense, shakespeare, soccer, steppers, team-pro, the moth, theater, toastmasters, viajeros, webmasters
+ - *search and care community service:* leadership through community service, new york cares community service, search and care community service
+ - *senior activities:* choirs and dance activities, family activities, learning center activities, psal activities, random acts of kindness, school spirit activities, senior activities, senior advisors, senior executive board, senior siblings, senior ski trip, student-faculty activities, volunteer activities
+ - *senior committee:* accreditation committee, assembly committee, debate committee, fairness committee, grade committees, nutrition committee, pageant committee, prom committee, queensborough community college, school culture committee, senior committee, senior officers, sister-to-sister, spirit committee, trinity choristers, welcome committee, wellness committee, yearbook committee
+ - *senior planning committee:* benefit concert planning committee, junior & senior committees, senior council committee, senior planning committee, social action committee, special events committee
+ - *service learning program:* breast cancer awareness program, extended learning academy, new york cares service program, opening act theatrical program, service learning internship program, service learning program, service learning projects
+ - *shakespeare monologue competition:* new york math league competition, shakespeare monologue competition, shakespeare monologue contest, shakespeare oratory competition
+ - *sing:* band, biking, china, film, fishing, link, manga, nursing, outing, paint, rise, running, s!ng, s.i.s., sailing, sci-fi, science, senior, sewing, sing, sing!, singing, sound, step, stepping, strings, strong, styling, swim
+ - *sing club:* 3d printing club, big sib, coding club, dance club, finance club, fundraising club, glee club, hispanic club, knitting club, muslim club, paint club, piano club, ping pong, ping pong club, publishing club, science club, sing club, stem club, swimming club
+ - *skateboarding:* amateur radio, boat building, enchanted garden, keyboard lab, keyboarding, scripted coding, skateboarding, skateboarding with stoked, snowboarding, stoked skateboarding, strategy/gaming, sustainability
+ - *social action projects and campaigns:* social action projects and campaigns
+ - *social justice:* and social support, food justice, restorative justice, social action, social justice, social justice club, social justice council, social obstacles, social studies, social wellness, vocal music
+ - *speech & debate:* advisory debates, lunch & learn, pre-law/debate, speech & debate, speech and debate, speech and debate teams, speech/debate
+ - *sponsors for educational opportunity:* sponsors for educational opportunity
+ - *sports:* b-boys, chorus, chorus), esports, improv, japanese, passport, poetry, poets, polish, portfolio, prepcorps, psal sports, showcase, skittles, spanish, spark, spectrum, spirit, spoken word, sport, sports, tutorials
+ - *sports and arts:* arts and crafts, books and bagels, freaks and geeks, lunch and learn, poets and playwrights, recycling and art, sound and stage crew, spartans tae kwan-do, sport management seminar, sports and arts, sports blogging/ webcasting, sports medicine, sports night, sports: baseball, sports’'' conditioning, stoked board sports, strategy card games, travel and tourism
+ - *sports and arts foundation (sasf):* south asian youth action (saya!), sports and arts foundation, sports and arts foundation (sasf), sports and arts school foundation (sasf)
+ - *spring vocal and instrumental concert:* ecology and environmental concerns, spring vocal and instrumental concert
+ - *st. jude children’s research hospital:* st. jude children’s research hospital
+ - *step dance:* confidence, h2o dance, modern dance, news channel, pep band, pep rallies, safe space, salsa dance, salsa dancers, school dance, self defense, sister circle, steel drum band, step class, step dance, step dancing, step up, step/dance, step/dance team, steppers dance, tvb cantonese
+ - *step up pathways to professions:* step up pathways to professions
+ - *string quartet:* brass quintet, clarinet quartet, saxophone quartet, stock market, string instruments, string quartet, think quest nyc, woodwind quintet
+ - *student activities committee:* dance and activities committees, student activities (cosa), student activities committee
+ - *student advisory council:* borough advisory student council, campus student building council, student advisory and leadership, student advisory board, student advisory council, student government/advisory council
+ - *student ambassador program:* student ambassador program, student ambassadors program, student exchange program, student government/ambassador program, student of the week program, youth ambassadors program
+ - *student council:* advisory council, brooklyn arts council, campus council, carver student council, consultative council, current clubs include film, grade councils, model city council, muslim youth council, peer council, senior council, student activism, student alliance, student council, student councils, student court, student lounge, teen health council
+ - *student council and student advisory:* student council activities and events, student council and student advisory
+ - *student government:* school government, self-improvement, senior class government, student government, student government council, student government/leadership, student tutor team, vanguard student government, ymca youth and government, youth & government
+ - *student government association (sga):* scholars government association (sga), student government & ethics (sge), student government association, student government association (sga)
+ - *student leadership team:* murrow speakers'' bureau, parent leadership academy, school leadership team, school leadership team (slt), science leadership institute, student crew leader assembly (scla), student executive leadership team, student leadership, student leadership council, student leadership development, student leadership group, student leadership program, student leadership retreats, student leadership team, student peer mediation team
+ - *student mentors:* adopt-a-student mentorship, current events, industry/business mentors, it gets better, senior mentors, student advisory, student bands, student center, student congress, student exhibitions, student expositions, student magazines, student mediators, student mentoring, student mentors, student producers, student senate, student talent showcases, student union, student-led clubs, study center
+ - *student movement against cancer:* student government & senior council, student movement against cancer, student movement against cancer (smac)
+ - *student organization:* latin american student organization, leaders organization, new student orientation, student government organization, student organization, student organization & leadership, student voice collaborative, students for sensible gun laws, summer orientation, united student organization (uso)
+ - *student recital series:* student assistance services, student recital series, student-led town hall assemblies, students can start new clubs., students helping students
+ - *students against destructive decisions:* students against destructive decisions
+ - *support and decision making skills):* support and decision making skills)
+ - *surfing and snowboarding through stoked:* surfing and snowboarding through stoked
+ - *system of freedom human rights:* system of freedom human rights
+ - *taconic outdoor science center:* taconic outdoor science center
+ - *taiko drumming and ukulele ensemble:* taiko drumming and ukulele ensemble
+ - *talent and fashion show:* charles nolan fashion club, culture night including fashion shows, eco-friendly fashion show, fashion club and fashion shows, talent and fashion, talent and fashion show
+ - *tapco prefect community associates:* tapco prefect community associates
+ - *teacher assistant program (tap):* teacher assistant program (tap), teacher assistants (tas), theater arts program (tap)
+ - *teacher office hours before school:* teacher office hours before school
+ - *technology club:* smart & bold movie club, tech squad/video game club), technology art, technology class, technology club, technology iclub, technology interns, technology squad, technology team, technology volunteers, technology: girls who code
+ - *teen tutoring:* and tutoring, cross stitching, daily tutoring, extended day tutoring, math tutorial, math tutoring, one-on-one tutoring, one-to-one tutoring, peer mentoring, peer tutoring, peer tutors, regents tutoring, science tutoring, subject tutoring, teen battle chef, teen summit, teen thursdays, teen tutoring, teens take the city, theory tutoring
+ - *television production and editing:* television production and editing, television production studio, video production and editing
+ - *the after-school corporation (tasc):* the after-school corporation (tasc)
+ - *the art students league of new york:* the art students league of new york
+ - *the challenge (academic competition):* the challenge (academic competition)
+ - *the cooper union saturday program:* the cooper union saturday program
+ - *the magnet literary magazine:* clinton soup (literary magazine), horizons literary magazine, school newsletter & literary magazine, soundings literary magazine, the anchor: literary art magazine, the magnet literary magazine, the phoenix literary/art magazine, ‘the hanger’ literary magazine
+ - *the pom squad: school spirit squad:* the pom squad: school spirit squad
+ - *the tower school newspaper:* bedford gazette school newspaper, the classic school newspaper, the clinton post (school newspaper), the crown jewel steppers, the latineer school newspaper, the madison times school newspaper, the pilot school newspaper, the tower school newspaper, vocational voice school newspaper, yearbook and school newspaper, ‘the image’ school newspaper, ‘the stallions’ school newspaper, ‘the vine’ student newsletter
+ - *the walking dead critique club:* the walking dead critique club
+ - *theater arts:* chelsea sat, creative arts, dramatic arts, dream team (dream act), heart to heart charity, human rights, improv theater group, the great saunter, the verdict, the world of art, theater arts, theater class, theater club, theater group, theater guild, theater trips, theater/chorus, theatre arts, ultimate frisbee, whiskers & tails
+ - *theater development fund trips:* theater development fund (tdf) trips, theater development fund program, theater development fund trips
+ - *theater productions:* black box theatre productions, black history production, character education, future health professionals, musical theater productions, student video productions, theater production, theater productions, theatrical productions, trips to theater productions, two dramatic productions
+ - *theatre ensemble:* dance ensemble, epic theater ensemble, freshman honors theatre ensemble, loma theatre ensemble, repertory ensemble, share an umbrella, teatro el puente, theatre ensemble, two dance ensembles, zawadi art ensemble
+ - *theatre tech:* fdr theatre guild, the brotherhood, the dream team, the great sweep, the purple meet, theatre guild, theatre tech, theatre tech crew, vocal tech
+ - *today’s students tomorrow’s teachers:* today’s students tomorrow’s teachers
+ - *track and field club:* drama and health clubs, rock and roll club, track and field, track and field club
+ - *tri-m music honor society:* archon community honor society, archon student service honor society, petrides against cancer society, quill and scroll honor society, tri-m music honor society, tri-m music society chapter, tri-music honor society
+ - *tutoring in major subject areas:* tutoring in all academic content areas, tutoring in all subjects, tutoring in major subject areas
+ - *tutoring program:* big siblings program, curatorial program, gardening program, hudson sailing program, mentoring program, no kidding program, rock band program, strings program, tutoring in math, tutoring program, young artist program
+ - *tutoring services provided as needed:* tutoring services provided as needed
+ - *two summer wilderness expeditions:* two summer wilderness expeditions
+ - *uhhs urban spin farm (with project eats):* uhhs urban spin farm (with project eats)
+ - *urban poetry:* asl poetry, beats music and poetry, cross country, hip-hop/poetry, slam poetry, urban dove, urban ecology, urban poetry, urban word, words from within poetry
+ - *usa:* , 4-h, 4h, a/v, audio, cosa, esl, food, futsal, fyi, gsa, gsx, guitar, hnn, huso, iuvo, jsa, judo, law, msa, mural, museum, music, muslim, muslim), pm, qsa, rap, russia, sadd, salsa, sat, save, skills usa, skillsusa, summa, usa, yoga, zumba
+ - *video editing:* balloon twisting, bridge building, bridge to medicine, film editing, hudson sailing, video and cooking. at unhs, video and film, video editing, video editing club, video film & editing, video filmmaking, video games/sci-fi/fantasy, video/media team, wilderness/camping
+ - *video game:* added value, anime/video game, friday jam, radio drama, such as: video game, video game, video game club, video game design, video game nights, video gamers, video games, video gaming, video/drama
+ - *video production:* 3-d productions, center for arts education, co-op education, dance productions, digital video production, film production, media production, play production, sound and video production, stage production, tv/video production, video & tv production, video and tv production, video production, video production (av squad), video production workshop, violence prevention
+ - *visits to asl interpreted broadway shows:* visits to asl interpreted broadway shows
+ - *visits to naval or other activities:* visits to naval or other activities
+ - *vital theatre:* civil air patrol, dance/theatre, drama/theatre, find the cure, improv theatre), improvisational theatre, vineyard theatre, virtual enterprise, vital theatre, vocal fest
+ - *we offer over 40 after-school clubs:* we offer over 40 after-school clubs
+ - *we plan to offer language lab:* we plan to offer language lab
+ - *web design:* art & design, dr. dragon, film & design, game design, interior design, jam sessions, multimedia design, set design, stage design, web design, web design club, web design team, web design/internet, web page design, web wiz, yearbook design
+ - *wellness council sponsored activities:* wellness council sponsored activities
+ - *white & blue sustainability team:* white & blue sustainability team
+ - *winter and spring concerts:* annual winter concert/spring concert, orchestral and vocal concerts, senior and junior councils, winter & spring concerts, winter and spring concerts, winter and spring school plays
+ - *winter festival:* arts festival, cultural festival, drama festivals, family festivals, sister 2 sister, spring arts festival, spring festival, winter arts festival, winter carnival, winter festival, winter showcase, world science festival
+ - *women''s empowerment:* women''s empowerment, women''s empowerment group, women''s equality, women’s empowerment, young women’s empowerment
+ - *word game:* board game, board games, boys 2 men, boys to men, fordham leap, new york cares, origami, study jams, tour guide, town hall, woodshop, word game, world summit
+ - *work initiative act (wia) youth program:* work initiative act (wia) youth program
+ - *world wrestling entertainment (wwe):* world wrestling entertainment (wwe)
+ - *writing:* 3-d printing, 3d printing, bowling, broadcasting, christian, criminology, drawing, drum line, drumming, editing, filipino, finer things, hiking, knitting, lyricism, painting, parenting, playwriting, printmaking, screenwriting, songwriting, storytelling, usa wrestling, webcasting, weightlifting, wrestling, writers, writing, writing center
+ - *y scholars program:* and graphics arts program, davinci scholars program, french language program, hydroponics program, in school youth program, scholars program, y scholars program
+ - *year book:* and yearbook, black ink book, comic book, great books, honors book, hula hoop, oppa noona, quiz bowl, reach out, squash book, t yearbook, weight room, year book, yearbook, yearbook (seniors)
+ - *yearbook committee and gaming club:* yearbook committee and gaming club
+ - *ymca for after-school sports (badminton:* ymca for after-school sports (badminton
+ - *young men’s alliance:* investment & finance, young men''s alliance, young men’s alliance, young women’s alliance
+ - *young runners:* disney voluntears, end of tunnel press, group fitness, loving bones, new york runners, road runners, roadrunners, tywls volunteers, young entrepreneurs, young harlem, young runner''s team, young runners, youth about business, youth-run business
+ - *young women''s association:* young entrepreneurs association, young men''s association, young women''s association
+ - *young women’s group:* cool women hot jobs, critical friends groups, loma cares volunteer group, men’s and women’s groups, women''s fitness group, young gentlemen’s group, young men’s group, young people’s project, young women’s group
+ - *young women’s leadership:* young men’s leadership, young women and men health, young women filmmakers, young women''s leadership, young women’s leadership
+ - *young women’s leadership group:* and young men''s leadership group, young men''s leadership club, young men’s leadership program, young women''s leadership club, young women’s leadership group, young women’s leadership program, young ‘womyns’ leadership group
+ - *youth court:* google cs first, greenpoint youth court, math counts, moot court, nyc outward bound, slj youth court, south asian, youth court, youth media
+ - *youth development program:* lincoln center open stage program, youth development program, ¡cuidate! (youth development program)
+ - *youth environmental stewards (yes):* youth environmental stewards (yes)
+ - *youth historians (columbia university):* youth historians (columbia university)
+ - *youth leadership:* aspira leadership, blueprint leadership, boys’ leadership, coro leadership, girls leadership, global kids leadership, spark youth leadership, ymca: youth leadership, youth leadership, youth leadership conference, youth legal rights, youth service leaders
+ - *ywca program and special trips:* casa program for esl students, ywca program and special trips
+ - *‘beyond the mat’ wrestling appreciation:* ‘beyond the mat’ wrestling appreciation

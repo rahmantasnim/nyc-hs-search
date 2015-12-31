@@ -2,6 +2,8 @@ import numpy as np #from numpy package
 import sklearn.cluster  # from sklearn package
 import distance #from distance package
 import simple_import
+from fuzzywuzzy import fuzz
+
 
 
 """
@@ -51,7 +53,6 @@ xtra_curr_keywords = { "government": "Student Government/Council",
                        "leadership": "Leadership Orgs",
                        "yearbook": "Yearbook",
                        "dance": "Dance",
-                       "salsa": "Dance",
                        "chess": "Chess",
                        "drama": "Drama/Theater",
                        "theater": "Drama/Theater",
@@ -119,9 +120,6 @@ xtra_curr_keywords = { "government": "Student Government/Council",
                        }
 
 
-""" Trying to cluster by affinity groups """
-
-
 def collect_xtra_curr(src_file):
     schema = simple_import.peek_field_indices(src_file)
     res = []
@@ -142,10 +140,10 @@ def collect_xtra_curr(src_file):
 
 def cluster_xtra_curr(xtras, out_file):
     with open(out_file, "w") as f:
-        words = xtras
+        words = set(xtras)
         lev_similarity = -1*np.array([[distance.levenshtein(w1,w2) for w1 in words] for w2 in words])
 
-        affprop = sklearn.cluster.AffinityPropagation(affinity="precomputed", damping=0.75)
+        affprop = sklearn.cluster.AffinityPropagation(affinity="precomputed", damping=0.5)
         affprop.fit(lev_similarity)
         for cluster_id in np.unique(affprop.labels_):
             exemplar = words[affprop.cluster_centers_indices_[cluster_id]]
@@ -158,9 +156,40 @@ def cluster_xtra_curr(xtras, out_file):
             f.write(" - *%s:* %s\n" % (exemplar, cluster_str))
 
 
+def count_remove_duplicates(xtras):
+    xs = {}
+    for x in xtras:
+        if x in xs:
+            xs[x] += 1
+        else:
+            xs[x] = 1
+    return sorted(xs, key=xs.get, reverse=True)
+
+
+def minimize_duplicates(xtras, out_file):
+    xtras = count_remove_duplicates(xtras)
+    res = []
+
+    with open(out_file, 'w') as f:
+        for idx, xtra in enumerate(xtras):
+            matches = 0
+            for canon_xtra in enumerate(res):
+                if fuzz.token_set_ratio(canon_xtra, xtra) >= 80:
+                    matches += 1
+            if matches:
+                f.write(xtra + '\n')
+                xtras[idx] = ""
+            else:
+                res.append(xtra)
+
+    return res
+
+
 def main():
     xtras = collect_xtra_curr("../../src/DOE_High_School_Directory_2016.csv")
-    cluster_xtra_curr(xtras, "xtra_curr_analysis/clustered_xtra_curr_075_all.txt")
+    # cluster_xtra_curr(xtras, "xtra_curr_analysis/clustered_xtra_curr_05_all.txt")
+    # count_remove_duplicates(xtras)
+    print len(minimize_duplicates(xtras, "xtra_curr_analysis/fuzzy_xtra_curr.txt"))
 
 
 if __name__ == '__main__':
